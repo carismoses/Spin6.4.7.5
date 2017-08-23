@@ -5,6 +5,8 @@ To compile:
     make
 
 To install (it will be intalled to /usr/local/bin):
+You may need to install YACC:
+    sudo apt-get install bison
     make install
 
 To clean:
